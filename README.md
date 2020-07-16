@@ -1,14 +1,22 @@
 # Collaborative Visual Anlaytics
 
-## Asynchronous Collaboration
-- Zhao, J., Glueck, M., Isenberg, P., Chevalier, F., & Khan, A. (2017). [Supporting handoff in asynchronous collaborative sensemaking using knowledge-transfer graphs](https://www.jeffjianzhao.com/papers/ktgraph.pdf). *IEEE transactions on visualization and computer graphics*, 24(1), 340-350.
+
 
 ## Communication & Coordination
+- Zhao, J., Glueck, M., Isenberg, P., Chevalier, F., & Khan, A. (2017). [Supporting handoff in asynchronous collaborative sensemaking using knowledge-transfer graphs](https://www.jeffjianzhao.com/papers/ktgraph.pdf). *IEEE transactions on visualization and computer graphics*, 24(1), 340-350.
+
+- Xu, S., Bryan, C., Li, J. K., Zhao, J., & Ma, K. L. (2018, June). [Chart Constellations: Effective Chart Summarization for Collaborative and Multi‐User Analyses](https://jpkli.github.io/papers/constellation-eurovis.pdf). *In Computer Graphics Forum* (Vol. 37, No. 3, pp. 75-86).
+
 - Mahyar, N., & Tory, M. (2014). [Supporting communication and coordination in collaborative sensemaking](https://groups.cs.umass.edu/wp-content/uploads/sites/8/2018/08/Mahyar_VAST14.pdf). *IEEE transactions on visualization and computer graphics*, 20(12), 1633-1642.
 
 ## Conflict
 - Li, K., Xu, S., Ye, C. & Ma, K.-L. (2020). [Resolving Conflicting Insights in Asynchronous
 Collaborative Visual Analysis](https://diglib.eg.org/bitstream/handle/10.1111/cgf13997/v39i3pp497-509.pdf), *EuroVis*.
+
+## Crowdsourced Sensemaking
+- Li, T., Manns, C. J., North, C., & Luther, K. (2019). [Dropping the baton? Understanding errors and bottlenecks in a crowdsourced sensemaking pipeline](http://people.cs.vt.edu/tianyili/pdf/DroppingtheBaton_copyrightsadded.pdf). *Proceedings of the ACM on Human-Computer Interaction*, 3(CSCW), 1-26.
+
+- Li, T., Luther, K., & North, C. (2018). [Crowdia: Solving mysteries with crowdsourced sensemaking](http://people.cs.vt.edu/tianyili/pdf/cscw105-liA.pdf). *Proceedings of the ACM on Human-Computer Interaction*, 2(CSCW), 1-29.
 
 ## Display & Devices
 ### Display Ecology
